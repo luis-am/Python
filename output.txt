@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x  2 luisam luisam 4096 Jul 21 23:05 .
+drwxr-x--- 42 luisam luisam 4096 Jul 21 22:26 ..
+-rwxrw-r--  1 luisam luisam  165 Jul 20 14:48 argumentos_script.py
+-rwxrw-r--  1 luisam luisam  864 Jul 20 21:59 cambio_de_nombre.py
+-rwxrw-r--  1 luisam luisam  547 Jul 19 23:28 diccionarios.py
+-rw-rw-r--  1 luisam luisam    1 Jul 19 16:50 listas,tuples,sets.md
+-rwxrw-r--  1 luisam luisam 2753 Jul 20 00:08 listas,tuples,sets.py
+-rwxrwxr-x  1 luisam luisam 1142 Jul 11 22:57 os_module.py
+-rwxrwxr-x  1 luisam luisam  512 Jul 21 10:18 os_module2.py
+-rw-rw-r--  1 luisam luisam    0 Jul 21 23:05 output.txt
+-rwxrw-r--  1 luisam luisam 1447 Jul 20 20:11 read_write_files.py
+-rwxrw-r--  1 luisam luisam  986 Jul 21 11:26 request.py
+-rwxrw-r--  1 luisam luisam  503 Jul 21 23:05 subprocesos.py
+-rwxrw-r--  1 luisam luisam  454 Jul 20 20:43 try.py
