@@ -113,3 +113,21 @@ nums = [1,2,3,4,5,6,7,8,9,10]
 
 # my_set = {n for n in nums}
 # print(my_set)
+
+
+The Multiple Assignment Trick
+The multiple assignment trick is a shortcut that lets you assign multiple vari-
+ables with the values in a list in one line of code.
+
+    >>> cat = ['fat', 'black', 'loud']
+    >>> size, color, disposition = cat
+
+# En el caso de que queramos ordenas alfabéticamente indepedientemente sean mayúsculas y minúsculas, hacemos lo siguiente. Recordar que por defecto python ordena de acuerdo al formato ASCII, esto lo que hace es tratar a todos los items en la lista como si fueran minúsculas.
+    letras.sort(key=str.lower)
+
+# Si quiero copiar una lista, NO LA REFERENCIA DE LA LISTA, importamos el módulo 'copy'
+
+import copy
+lista1 = [1, 2, 3, 4, 5]
+lista2 = copy.copy(lista1)
+print(lista2)
